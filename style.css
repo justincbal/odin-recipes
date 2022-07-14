@@ -1,0 +1,24 @@
+* {
+    background-color: #E6DFD1;
+    font-family: 'Courier New', Courier, monospace;
+}
+
+#heading {
+    color: #A56336;
+    text-align: center;
+}
+
+.item-list {
+    text-align: center;
+    border-style: solid;
+    margin: 50px;
+}
+
+ul {
+    list-style-type: none;
+}
+
+.item-list .item {
+    color: black;
+    
+}
